@@ -1,6 +1,8 @@
 Dockerfiles with Aeroo Reports support
 ======
 
+currently workable Dockerfile version 12
+
 About this Repo
 ======
 
